@@ -1,2 +1,2 @@
 # React-Workout-App
-Building a Workout app with React
+Built a Workout app with React
